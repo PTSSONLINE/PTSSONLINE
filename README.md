@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <!-- Basic Page Needs
-  ================================================== -->
-    <title>Copyright Compliance information</title>
-	<meta charset="utf-8">
-	<meta name="description" content="Licensed By POWER TECHNOLOGY SUPPORT SOLUTION LIMITED PARTNERSHIP">
-	<meta name="author" content="README.md">
-    <meta name="Keywords" content="PTSS.GROUP,Licensed,README.md"/>
-	<meta name="keywords" content="README.md,PTSS.GROUP, POWER TECHNOLOGY SUPPORT SOLUTIONS, Licensed, Copyright,SUPPORT SOLUTIONS,POWER TECHNOLOGY"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<body>
 - 👋 Hi, I’m @PTSSONLINE Operates under the supervision of Power Technology International Corporation (PTSS GROUP).
 - 👀 PTSS GROUP หรือ Power Technology Support Solution Ltd., Part. เป็นบริษัทที่จัดจำหน่ายสินค้าและบริการด้านไอที ที่ครบวงจร
 - 🌱 I’m Power Store  ยินดีต้อนรับสู่เว็บไซต์. www.ptss.online
@@ -23,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
  <!-- contact -->
    <div class="w3-panel w3-pale-blue w3-leftbar w3-rightbar w3-border-blue">
-   <p><img src="https://avatars.githubusercontent.com/u/143116763?v=4" width="200" border="0"></p>
+   <p><img src="https://avatars.githubusercontent.com/u/143116763?v=4" width="50" border="0"></p>
      <p>HOW TO CONTACT THE COMPANY</p>
      <p>LEGAL AND INTERNAL CONTROL DEPARTMENT</p>
 	 <p>POWER TECHNOLOGY SUPPORT SOLUTIONS LIMITED PARTNERSHIP</p>
@@ -35,5 +22,7 @@ You can click the Preview link to take a look at your changes.
 <br><br> 
 </div>
 	
-</body>
-</html> 
+ <!-- Licensed -->
+<center>
+&copy; POWER TECHNOLOGY SUPPORT SOLUTIONS LIMITED PARTNERSHIP
+</center>  
