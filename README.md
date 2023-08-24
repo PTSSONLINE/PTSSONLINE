@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
  <!-- contact -->
    <div class="w3-panel w3-pale-blue w3-leftbar w3-rightbar w3-border-blue">
-   <p><img src="./images/weblogo.png" width="200" border="0"></p>
+   <p><img src="https://avatars.githubusercontent.com/u/143116763?v=4" width="200" border="0"></p>
      <p>HOW TO CONTACT THE COMPANY</p>
      <p>LEGAL AND INTERNAL CONTROL DEPARTMENT</p>
 	 <p>POWER TECHNOLOGY SUPPORT SOLUTIONS LIMITED PARTNERSHIP</p>
